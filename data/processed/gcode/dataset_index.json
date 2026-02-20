@@ -1,0 +1,902 @@
+[
+  {
+    "id": "synth_gcode_0000",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4191286528616919
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0000.gcode"
+  },
+  {
+    "id": "synth_gcode_0001",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5032349292868149
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0001.gcode"
+  },
+  {
+    "id": "synth_gcode_0002",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.34843483010140136
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0002.gcode"
+  },
+  {
+    "id": "synth_gcode_0003",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8418561830726774
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0003.gcode"
+  },
+  {
+    "id": "synth_gcode_0004",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8955341929459117
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0004.gcode"
+  },
+  {
+    "id": "synth_gcode_0005",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.17171662051431053
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0005.gcode"
+  },
+  {
+    "id": "synth_gcode_0006",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6823912068727718
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0006.gcode"
+  },
+  {
+    "id": "synth_gcode_0007",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.20315057695017036
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0007.gcode"
+  },
+  {
+    "id": "synth_gcode_0008",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8754812332361731
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0008.gcode"
+  },
+  {
+    "id": "synth_gcode_0009",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9424306062067953
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0009.gcode"
+  },
+  {
+    "id": "synth_gcode_0010",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.671902655770117
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0010.gcode"
+  },
+  {
+    "id": "synth_gcode_0011",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2543070786065037
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0011.gcode"
+  },
+  {
+    "id": "synth_gcode_0012",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2445988771360922
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0012.gcode"
+  },
+  {
+    "id": "synth_gcode_0013",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2055657676674072
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0013.gcode"
+  },
+  {
+    "id": "synth_gcode_0014",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8907504919779275
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0014.gcode"
+  },
+  {
+    "id": "synth_gcode_0015",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.49628213621949724
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0015.gcode"
+  },
+  {
+    "id": "synth_gcode_0016",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.11276473942904758
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0016.gcode"
+  },
+  {
+    "id": "synth_gcode_0017",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.14012392823448766
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0017.gcode"
+  },
+  {
+    "id": "synth_gcode_0018",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5607294329459879
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0018.gcode"
+  },
+  {
+    "id": "synth_gcode_0019",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.27587331246392066
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0019.gcode"
+  },
+  {
+    "id": "synth_gcode_0020",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.19399110545360448
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0020.gcode"
+  },
+  {
+    "id": "synth_gcode_0021",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.1871969112240469
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0021.gcode"
+  },
+  {
+    "id": "synth_gcode_0022",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7601308741308774
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0022.gcode"
+  },
+  {
+    "id": "synth_gcode_0023",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7103434054294961
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0023.gcode"
+  },
+  {
+    "id": "synth_gcode_0024",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4169399502020914
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0024.gcode"
+  },
+  {
+    "id": "synth_gcode_0025",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5713596232580263
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0025.gcode"
+  },
+  {
+    "id": "synth_gcode_0026",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5694275276828452
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0026.gcode"
+  },
+  {
+    "id": "synth_gcode_0027",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.23832114736853618
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0027.gcode"
+  },
+  {
+    "id": "synth_gcode_0028",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8655890040522269
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0028.gcode"
+  },
+  {
+    "id": "synth_gcode_0029",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7357239307521181
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0029.gcode"
+  },
+  {
+    "id": "synth_gcode_0030",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2914900336010792
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0030.gcode"
+  },
+  {
+    "id": "synth_gcode_0031",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7789234852836721
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0031.gcode"
+  },
+  {
+    "id": "synth_gcode_0032",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9802806040417329
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0032.gcode"
+  },
+  {
+    "id": "synth_gcode_0033",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5968198889263899
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0033.gcode"
+  },
+  {
+    "id": "synth_gcode_0034",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4388720913874292
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0034.gcode"
+  },
+  {
+    "id": "synth_gcode_0035",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.29561423844093127
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0035.gcode"
+  },
+  {
+    "id": "synth_gcode_0036",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.1030344975621187
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0036.gcode"
+  },
+  {
+    "id": "synth_gcode_0037",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.63882852947704
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0037.gcode"
+  },
+  {
+    "id": "synth_gcode_0038",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.23349315382126237
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0038.gcode"
+  },
+  {
+    "id": "synth_gcode_0039",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8663032599931269
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0039.gcode"
+  },
+  {
+    "id": "synth_gcode_0040",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8002459734935116
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0040.gcode"
+  },
+  {
+    "id": "synth_gcode_0041",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2605898183055606
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0041.gcode"
+  },
+  {
+    "id": "synth_gcode_0042",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.21018545615059703
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0042.gcode"
+  },
+  {
+    "id": "synth_gcode_0043",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6363513797263114
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0043.gcode"
+  },
+  {
+    "id": "synth_gcode_0044",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9439314094186346
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0044.gcode"
+  },
+  {
+    "id": "synth_gcode_0045",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.27878596169011655
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0045.gcode"
+  },
+  {
+    "id": "synth_gcode_0046",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6799234466385072
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0046.gcode"
+  },
+  {
+    "id": "synth_gcode_0047",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9142677196505444
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0047.gcode"
+  },
+  {
+    "id": "synth_gcode_0048",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.731257636155841
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0048.gcode"
+  },
+  {
+    "id": "synth_gcode_0049",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8492325616901515
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0049.gcode"
+  },
+  {
+    "id": "synth_gcode_0050",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4606893589262512
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0050.gcode"
+  },
+  {
+    "id": "synth_gcode_0051",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9571624358562166
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0051.gcode"
+  },
+  {
+    "id": "synth_gcode_0052",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7720768541054075
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0052.gcode"
+  },
+  {
+    "id": "synth_gcode_0053",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5619297634008404
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0053.gcode"
+  },
+  {
+    "id": "synth_gcode_0054",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8002453586213168
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0054.gcode"
+  },
+  {
+    "id": "synth_gcode_0055",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.1854424884279522
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0055.gcode"
+  },
+  {
+    "id": "synth_gcode_0056",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.49217570445800607
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0056.gcode"
+  },
+  {
+    "id": "synth_gcode_0057",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5739007444892728
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0057.gcode"
+  },
+  {
+    "id": "synth_gcode_0058",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8038954584118452
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0058.gcode"
+  },
+  {
+    "id": "synth_gcode_0059",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7603507214622348
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0059.gcode"
+  },
+  {
+    "id": "synth_gcode_0060",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5194684385922996
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0060.gcode"
+  },
+  {
+    "id": "synth_gcode_0061",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9337674864218714
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0061.gcode"
+  },
+  {
+    "id": "synth_gcode_0062",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2226344246665302
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0062.gcode"
+  },
+  {
+    "id": "synth_gcode_0063",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6024377056244731
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0063.gcode"
+  },
+  {
+    "id": "synth_gcode_0064",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.21355841503846645
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0064.gcode"
+  },
+  {
+    "id": "synth_gcode_0065",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.41068185212563013
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0065.gcode"
+  },
+  {
+    "id": "synth_gcode_0066",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.1743699725938903
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0066.gcode"
+  },
+  {
+    "id": "synth_gcode_0067",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.99127923440743
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0067.gcode"
+  },
+  {
+    "id": "synth_gcode_0068",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4992512199890222
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0068.gcode"
+  },
+  {
+    "id": "synth_gcode_0069",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8545144225958502
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0069.gcode"
+  },
+  {
+    "id": "synth_gcode_0070",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5789751722994505
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0070.gcode"
+  },
+  {
+    "id": "synth_gcode_0071",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6510506438588187
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0071.gcode"
+  },
+  {
+    "id": "synth_gcode_0072",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6787894381503736
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0072.gcode"
+  },
+  {
+    "id": "synth_gcode_0073",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7136042128985519
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0073.gcode"
+  },
+  {
+    "id": "synth_gcode_0074",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5197128404666632
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0074.gcode"
+  },
+  {
+    "id": "synth_gcode_0075",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2536973388271442
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0075.gcode"
+  },
+  {
+    "id": "synth_gcode_0076",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9854201973451855
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0076.gcode"
+  },
+  {
+    "id": "synth_gcode_0077",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7586137530512251
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0077.gcode"
+  },
+  {
+    "id": "synth_gcode_0078",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.17641550303139036
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0078.gcode"
+  },
+  {
+    "id": "synth_gcode_0079",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7614344889540489
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0079.gcode"
+  },
+  {
+    "id": "synth_gcode_0080",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6965629868568802
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0080.gcode"
+  },
+  {
+    "id": "synth_gcode_0081",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9784977262174236
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0081.gcode"
+  },
+  {
+    "id": "synth_gcode_0082",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7838638581816652
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0082.gcode"
+  },
+  {
+    "id": "synth_gcode_0083",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6417354071790001
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0083.gcode"
+  },
+  {
+    "id": "synth_gcode_0084",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7813856378788181
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0084.gcode"
+  },
+  {
+    "id": "synth_gcode_0085",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2574938341521961
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0085.gcode"
+  },
+  {
+    "id": "synth_gcode_0086",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5836563712840859
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0086.gcode"
+  },
+  {
+    "id": "synth_gcode_0087",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4734749670679982
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0087.gcode"
+  },
+  {
+    "id": "synth_gcode_0088",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.659670317207976
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0088.gcode"
+  },
+  {
+    "id": "synth_gcode_0089",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2689658367987624
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0089.gcode"
+  },
+  {
+    "id": "synth_gcode_0090",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.48292222191508105
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0090.gcode"
+  },
+  {
+    "id": "synth_gcode_0091",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.30917795916482105
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0091.gcode"
+  },
+  {
+    "id": "synth_gcode_0092",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.780127205206578
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0092.gcode"
+  },
+  {
+    "id": "synth_gcode_0093",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5767275399077116
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0093.gcode"
+  },
+  {
+    "id": "synth_gcode_0094",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5346530552759446
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0094.gcode"
+  },
+  {
+    "id": "synth_gcode_0095",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8737958967758193
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0095.gcode"
+  },
+  {
+    "id": "synth_gcode_0096",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.26856165725475467
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0096.gcode"
+  },
+  {
+    "id": "synth_gcode_0097",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9077260806845855
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0097.gcode"
+  },
+  {
+    "id": "synth_gcode_0098",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.1843604211119645
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0098.gcode"
+  },
+  {
+    "id": "synth_gcode_0099",
+    "format_type": "gcode",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.14427918597409706
+    },
+    "file_path": "data/processed/gcode/synth_gcode_0099.gcode"
+  }
+]

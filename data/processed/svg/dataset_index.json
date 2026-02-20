@@ -1,0 +1,902 @@
+[
+  {
+    "id": "synth_svg_0000",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4158489636507223
+    },
+    "file_path": "data/processed/svg/synth_svg_0000.svg"
+  },
+  {
+    "id": "synth_svg_0001",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.33244826506558245
+    },
+    "file_path": "data/processed/svg/synth_svg_0001.svg"
+  },
+  {
+    "id": "synth_svg_0002",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.15660775008184238
+    },
+    "file_path": "data/processed/svg/synth_svg_0002.svg"
+  },
+  {
+    "id": "synth_svg_0003",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7450060574620115
+    },
+    "file_path": "data/processed/svg/synth_svg_0003.svg"
+  },
+  {
+    "id": "synth_svg_0004",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5445045455836883
+    },
+    "file_path": "data/processed/svg/synth_svg_0004.svg"
+  },
+  {
+    "id": "synth_svg_0005",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.22065405348106076
+    },
+    "file_path": "data/processed/svg/synth_svg_0005.svg"
+  },
+  {
+    "id": "synth_svg_0006",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.24314044759510758
+    },
+    "file_path": "data/processed/svg/synth_svg_0006.svg"
+  },
+  {
+    "id": "synth_svg_0007",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.18094784144145434
+    },
+    "file_path": "data/processed/svg/synth_svg_0007.svg"
+  },
+  {
+    "id": "synth_svg_0008",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9819511792081824
+    },
+    "file_path": "data/processed/svg/synth_svg_0008.svg"
+  },
+  {
+    "id": "synth_svg_0009",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5904569165413129
+    },
+    "file_path": "data/processed/svg/synth_svg_0009.svg"
+  },
+  {
+    "id": "synth_svg_0010",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8671549953694295
+    },
+    "file_path": "data/processed/svg/synth_svg_0010.svg"
+  },
+  {
+    "id": "synth_svg_0011",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.17010756831658885
+    },
+    "file_path": "data/processed/svg/synth_svg_0011.svg"
+  },
+  {
+    "id": "synth_svg_0012",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.14042247432732846
+    },
+    "file_path": "data/processed/svg/synth_svg_0012.svg"
+  },
+  {
+    "id": "synth_svg_0013",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6809768619969641
+    },
+    "file_path": "data/processed/svg/synth_svg_0013.svg"
+  },
+  {
+    "id": "synth_svg_0014",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7366710435337459
+    },
+    "file_path": "data/processed/svg/synth_svg_0014.svg"
+  },
+  {
+    "id": "synth_svg_0015",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8452671171530374
+    },
+    "file_path": "data/processed/svg/synth_svg_0015.svg"
+  },
+  {
+    "id": "synth_svg_0016",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6854477052277356
+    },
+    "file_path": "data/processed/svg/synth_svg_0016.svg"
+  },
+  {
+    "id": "synth_svg_0017",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.12249398335554927
+    },
+    "file_path": "data/processed/svg/synth_svg_0017.svg"
+  },
+  {
+    "id": "synth_svg_0018",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.845792261654653
+    },
+    "file_path": "data/processed/svg/synth_svg_0018.svg"
+  },
+  {
+    "id": "synth_svg_0019",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.26988794974063024
+    },
+    "file_path": "data/processed/svg/synth_svg_0019.svg"
+  },
+  {
+    "id": "synth_svg_0020",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.38919842050696063
+    },
+    "file_path": "data/processed/svg/synth_svg_0020.svg"
+  },
+  {
+    "id": "synth_svg_0021",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9055473917379523
+    },
+    "file_path": "data/processed/svg/synth_svg_0021.svg"
+  },
+  {
+    "id": "synth_svg_0022",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7379452479814808
+    },
+    "file_path": "data/processed/svg/synth_svg_0022.svg"
+  },
+  {
+    "id": "synth_svg_0023",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6390403205685621
+    },
+    "file_path": "data/processed/svg/synth_svg_0023.svg"
+  },
+  {
+    "id": "synth_svg_0024",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.26227048924807306
+    },
+    "file_path": "data/processed/svg/synth_svg_0024.svg"
+  },
+  {
+    "id": "synth_svg_0025",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.24324340223216206
+    },
+    "file_path": "data/processed/svg/synth_svg_0025.svg"
+  },
+  {
+    "id": "synth_svg_0026",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.15961573153441772
+    },
+    "file_path": "data/processed/svg/synth_svg_0026.svg"
+  },
+  {
+    "id": "synth_svg_0027",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.36070891224755885
+    },
+    "file_path": "data/processed/svg/synth_svg_0027.svg"
+  },
+  {
+    "id": "synth_svg_0028",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4653872237146819
+    },
+    "file_path": "data/processed/svg/synth_svg_0028.svg"
+  },
+  {
+    "id": "synth_svg_0029",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6159388560298192
+    },
+    "file_path": "data/processed/svg/synth_svg_0029.svg"
+  },
+  {
+    "id": "synth_svg_0030",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6275567399252877
+    },
+    "file_path": "data/processed/svg/synth_svg_0030.svg"
+  },
+  {
+    "id": "synth_svg_0031",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.914068696751468
+    },
+    "file_path": "data/processed/svg/synth_svg_0031.svg"
+  },
+  {
+    "id": "synth_svg_0032",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7316688687472407
+    },
+    "file_path": "data/processed/svg/synth_svg_0032.svg"
+  },
+  {
+    "id": "synth_svg_0033",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.19713879645221816
+    },
+    "file_path": "data/processed/svg/synth_svg_0033.svg"
+  },
+  {
+    "id": "synth_svg_0034",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.20684304396438047
+    },
+    "file_path": "data/processed/svg/synth_svg_0034.svg"
+  },
+  {
+    "id": "synth_svg_0035",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9587296524738687
+    },
+    "file_path": "data/processed/svg/synth_svg_0035.svg"
+  },
+  {
+    "id": "synth_svg_0036",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6294045934887026
+    },
+    "file_path": "data/processed/svg/synth_svg_0036.svg"
+  },
+  {
+    "id": "synth_svg_0037",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.48188226747826324
+    },
+    "file_path": "data/processed/svg/synth_svg_0037.svg"
+  },
+  {
+    "id": "synth_svg_0038",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.30772665764434437
+    },
+    "file_path": "data/processed/svg/synth_svg_0038.svg"
+  },
+  {
+    "id": "synth_svg_0039",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8103442024675799
+    },
+    "file_path": "data/processed/svg/synth_svg_0039.svg"
+  },
+  {
+    "id": "synth_svg_0040",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6198152072952102
+    },
+    "file_path": "data/processed/svg/synth_svg_0040.svg"
+  },
+  {
+    "id": "synth_svg_0041",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5189916281079751
+    },
+    "file_path": "data/processed/svg/synth_svg_0041.svg"
+  },
+  {
+    "id": "synth_svg_0042",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.11577695840602059
+    },
+    "file_path": "data/processed/svg/synth_svg_0042.svg"
+  },
+  {
+    "id": "synth_svg_0043",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6600798928222811
+    },
+    "file_path": "data/processed/svg/synth_svg_0043.svg"
+  },
+  {
+    "id": "synth_svg_0044",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7079747337457496
+    },
+    "file_path": "data/processed/svg/synth_svg_0044.svg"
+  },
+  {
+    "id": "synth_svg_0045",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2067761903949362
+    },
+    "file_path": "data/processed/svg/synth_svg_0045.svg"
+  },
+  {
+    "id": "synth_svg_0046",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4860778101737432
+    },
+    "file_path": "data/processed/svg/synth_svg_0046.svg"
+  },
+  {
+    "id": "synth_svg_0047",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9077137115380355
+    },
+    "file_path": "data/processed/svg/synth_svg_0047.svg"
+  },
+  {
+    "id": "synth_svg_0048",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.3832654471371335
+    },
+    "file_path": "data/processed/svg/synth_svg_0048.svg"
+  },
+  {
+    "id": "synth_svg_0049",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.19886233318687058
+    },
+    "file_path": "data/processed/svg/synth_svg_0049.svg"
+  },
+  {
+    "id": "synth_svg_0050",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8757788463333748
+    },
+    "file_path": "data/processed/svg/synth_svg_0050.svg"
+  },
+  {
+    "id": "synth_svg_0051",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6973709322377006
+    },
+    "file_path": "data/processed/svg/synth_svg_0051.svg"
+  },
+  {
+    "id": "synth_svg_0052",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7323355236053766
+    },
+    "file_path": "data/processed/svg/synth_svg_0052.svg"
+  },
+  {
+    "id": "synth_svg_0053",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.20772905059980107
+    },
+    "file_path": "data/processed/svg/synth_svg_0053.svg"
+  },
+  {
+    "id": "synth_svg_0054",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6062300295812911
+    },
+    "file_path": "data/processed/svg/synth_svg_0054.svg"
+  },
+  {
+    "id": "synth_svg_0055",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6972652823859189
+    },
+    "file_path": "data/processed/svg/synth_svg_0055.svg"
+  },
+  {
+    "id": "synth_svg_0056",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.29650037752870556
+    },
+    "file_path": "data/processed/svg/synth_svg_0056.svg"
+  },
+  {
+    "id": "synth_svg_0057",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.19669927229183298
+    },
+    "file_path": "data/processed/svg/synth_svg_0057.svg"
+  },
+  {
+    "id": "synth_svg_0058",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.3092080138892229
+    },
+    "file_path": "data/processed/svg/synth_svg_0058.svg"
+  },
+  {
+    "id": "synth_svg_0059",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8171070159752065
+    },
+    "file_path": "data/processed/svg/synth_svg_0059.svg"
+  },
+  {
+    "id": "synth_svg_0060",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.11767746311833129
+    },
+    "file_path": "data/processed/svg/synth_svg_0060.svg"
+  },
+  {
+    "id": "synth_svg_0061",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7596063773443291
+    },
+    "file_path": "data/processed/svg/synth_svg_0061.svg"
+  },
+  {
+    "id": "synth_svg_0062",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.721590507456423
+    },
+    "file_path": "data/processed/svg/synth_svg_0062.svg"
+  },
+  {
+    "id": "synth_svg_0063",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7177596827831589
+    },
+    "file_path": "data/processed/svg/synth_svg_0063.svg"
+  },
+  {
+    "id": "synth_svg_0064",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2314164239715752
+    },
+    "file_path": "data/processed/svg/synth_svg_0064.svg"
+  },
+  {
+    "id": "synth_svg_0065",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.3161379425929869
+    },
+    "file_path": "data/processed/svg/synth_svg_0065.svg"
+  },
+  {
+    "id": "synth_svg_0066",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6141353760205938
+    },
+    "file_path": "data/processed/svg/synth_svg_0066.svg"
+  },
+  {
+    "id": "synth_svg_0067",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8946902991841408
+    },
+    "file_path": "data/processed/svg/synth_svg_0067.svg"
+  },
+  {
+    "id": "synth_svg_0068",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9183802247926122
+    },
+    "file_path": "data/processed/svg/synth_svg_0068.svg"
+  },
+  {
+    "id": "synth_svg_0069",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6373398464049803
+    },
+    "file_path": "data/processed/svg/synth_svg_0069.svg"
+  },
+  {
+    "id": "synth_svg_0070",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7730368865688275
+    },
+    "file_path": "data/processed/svg/synth_svg_0070.svg"
+  },
+  {
+    "id": "synth_svg_0071",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.32299935253217366
+    },
+    "file_path": "data/processed/svg/synth_svg_0071.svg"
+  },
+  {
+    "id": "synth_svg_0072",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.17973085366128982
+    },
+    "file_path": "data/processed/svg/synth_svg_0072.svg"
+  },
+  {
+    "id": "synth_svg_0073",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5013038689174097
+    },
+    "file_path": "data/processed/svg/synth_svg_0073.svg"
+  },
+  {
+    "id": "synth_svg_0074",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9314860798401614
+    },
+    "file_path": "data/processed/svg/synth_svg_0074.svg"
+  },
+  {
+    "id": "synth_svg_0075",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9804062411045994
+    },
+    "file_path": "data/processed/svg/synth_svg_0075.svg"
+  },
+  {
+    "id": "synth_svg_0076",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9273822212193061
+    },
+    "file_path": "data/processed/svg/synth_svg_0076.svg"
+  },
+  {
+    "id": "synth_svg_0077",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7443847698659295
+    },
+    "file_path": "data/processed/svg/synth_svg_0077.svg"
+  },
+  {
+    "id": "synth_svg_0078",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5512109704876578
+    },
+    "file_path": "data/processed/svg/synth_svg_0078.svg"
+  },
+  {
+    "id": "synth_svg_0079",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2528704002604238
+    },
+    "file_path": "data/processed/svg/synth_svg_0079.svg"
+  },
+  {
+    "id": "synth_svg_0080",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7666814726643763
+    },
+    "file_path": "data/processed/svg/synth_svg_0080.svg"
+  },
+  {
+    "id": "synth_svg_0081",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4314756748610987
+    },
+    "file_path": "data/processed/svg/synth_svg_0081.svg"
+  },
+  {
+    "id": "synth_svg_0082",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5526342950101115
+    },
+    "file_path": "data/processed/svg/synth_svg_0082.svg"
+  },
+  {
+    "id": "synth_svg_0083",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.5662215113716215
+    },
+    "file_path": "data/processed/svg/synth_svg_0083.svg"
+  },
+  {
+    "id": "synth_svg_0084",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4023852048748735
+    },
+    "file_path": "data/processed/svg/synth_svg_0084.svg"
+  },
+  {
+    "id": "synth_svg_0085",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9134522552152172
+    },
+    "file_path": "data/processed/svg/synth_svg_0085.svg"
+  },
+  {
+    "id": "synth_svg_0086",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.8316162900238462
+    },
+    "file_path": "data/processed/svg/synth_svg_0086.svg"
+  },
+  {
+    "id": "synth_svg_0087",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4716050401540546
+    },
+    "file_path": "data/processed/svg/synth_svg_0087.svg"
+  },
+  {
+    "id": "synth_svg_0088",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.6480491555861051
+    },
+    "file_path": "data/processed/svg/synth_svg_0088.svg"
+  },
+  {
+    "id": "synth_svg_0089",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.34987147271546415
+    },
+    "file_path": "data/processed/svg/synth_svg_0089.svg"
+  },
+  {
+    "id": "synth_svg_0090",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.2703908743541805
+    },
+    "file_path": "data/processed/svg/synth_svg_0090.svg"
+  },
+  {
+    "id": "synth_svg_0091",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.30744496987446246
+    },
+    "file_path": "data/processed/svg/synth_svg_0091.svg"
+  },
+  {
+    "id": "synth_svg_0092",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.14003003594288893
+    },
+    "file_path": "data/processed/svg/synth_svg_0092.svg"
+  },
+  {
+    "id": "synth_svg_0093",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.7015600118619808
+    },
+    "file_path": "data/processed/svg/synth_svg_0093.svg"
+  },
+  {
+    "id": "synth_svg_0094",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.24163101945662632
+    },
+    "file_path": "data/processed/svg/synth_svg_0094.svg"
+  },
+  {
+    "id": "synth_svg_0095",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9920370848857429
+    },
+    "file_path": "data/processed/svg/synth_svg_0095.svg"
+  },
+  {
+    "id": "synth_svg_0096",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4710226021429469
+    },
+    "file_path": "data/processed/svg/synth_svg_0096.svg"
+  },
+  {
+    "id": "synth_svg_0097",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.25578151749770517
+    },
+    "file_path": "data/processed/svg/synth_svg_0097.svg"
+  },
+  {
+    "id": "synth_svg_0098",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.9404318366973167
+    },
+    "file_path": "data/processed/svg/synth_svg_0098.svg"
+  },
+  {
+    "id": "synth_svg_0099",
+    "format_type": "svg",
+    "metadata": {
+      "synthetic": true,
+      "complexity": 0.4356055033970503
+    },
+    "file_path": "data/processed/svg/synth_svg_0099.svg"
+  }
+]

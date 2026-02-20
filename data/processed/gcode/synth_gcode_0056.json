@@ -1,0 +1,9 @@
+{
+  "id": "synth_gcode_0056",
+  "format_type": "gcode",
+  "metadata": {
+    "synthetic": true,
+    "complexity": 0.49217570445800607
+  },
+  "file_path": "data/processed/gcode/synth_gcode_0056.gcode"
+}
