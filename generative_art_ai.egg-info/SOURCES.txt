@@ -1,0 +1,14 @@
+README.md
+setup.py
+generative_art_ai.egg-info/PKG-INFO
+generative_art_ai.egg-info/SOURCES.txt
+generative_art_ai.egg-info/dependency_links.txt
+generative_art_ai.egg-info/entry_points.txt
+generative_art_ai.egg-info/requires.txt
+generative_art_ai.egg-info/top_level.txt
+src/__init__.py
+src/data_preparation.py
+src/generation.py
+src/model_training.py
+src/plotter_controller.py
+src/validation.py
